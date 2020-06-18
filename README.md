@@ -1,5 +1,7 @@
 # hello-heroes
 
+home: http://localhost:8080/superheroes
+
 ## Project setup
 ```
 npm install
